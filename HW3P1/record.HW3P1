@@ -1,0 +1,126 @@
+Script started on Sat 15 Oct 2016 02:09:21 AM PDT
+]0;marti540@empress:~/cs311/HWPrograms/forHW3[marti540@empress forHW3]$ exitmacs llist.cpp[8P./a.outg++ HW3P1client.cpp llist.cpp
+]0;marti540@empress:~/cs311/HWPrograms/forHW3[marti540@empress forHW3]$ g++ HW3P1client.cpp llist.cpp[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kmacs llist.cpp[8P./a.out
+
+MENU: These are your options: 
+
+   (1) Case 1  
+   (2) Case 2  
+   (3) Case 3  
+   (4) Case 4 
+    Enter ( 0 ) to quit 
+===>1
+CASE 1:------------------- 
+Contstructor
+1
+is Empty
+2
+[  the list is EMPTY ]
+3
+4
+[ 1 2 3 4 ]
+5
+[1]was deleted
+[2]was deleted
+6
+[ 3 4 ]
+7
+not empty
+8
+[4]was deleted
+[3]was deleted
+9
+is Empty
+destructor
+
+MENU: These are your options: 
+
+   (1) Case 1  
+   (2) Case 2  
+   (3) Case 3  
+   (4) Case 4 
+    Enter ( 0 ) to quit 
+===>2
+Case 2: -----------------------
+Contstructor
+1
+2
+3
+[4]was deleted
+4
+5
+[ 5 6 8 9 ]
+6
+7
+8
+9
+out of range
+10
+out of range
+11
+[ 4 5 6 8 7 9 10 ]
+12
+[4] was deleted
+13
+[10] was deleted
+14
+[7] was deleted
+15
+out of range
+16
+out of range
+17
+[ 5 6 8 9 ]
+18
+[9] was deleted
+[8] was deleted
+[6] was deleted
+[5] was deleted
+19
+[  the list is EMPTY ]
+destructor
+
+MENU: These are your options: 
+
+   (1) Case 1  
+   (2) Case 2  
+   (3) Case 3  
+   (4) Case 4 
+    Enter ( 0 ) to quit 
+===>3
+Case 3:-------------------- 
+Contstructor
+1
+ Out of range
+2
+cant delete front
+destructor
+
+MENU: These are your options: 
+
+   (1) Case 1  
+   (2) Case 2  
+   (3) Case 3  
+   (4) Case 4 
+    Enter ( 0 ) to quit 
+===>4
+Case 4:------------------------ 
+Contstructor
+1
+ cant delete out of range
+2
+cant delete list is empty
+destructor
+
+MENU: These are your options: 
+
+   (1) Case 1  
+   (2) Case 2  
+   (3) Case 3  
+   (4) Case 4 
+    Enter ( 0 ) to quit 
+===>0
+]0;marti540@empress:~/cs311/HWPrograms/forHW3[marti540@empress forHW3]$ exit
+exit
+
+Script done on Sat 15 Oct 2016 02:09:54 AM PDT

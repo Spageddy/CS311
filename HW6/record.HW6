@@ -1,0 +1,264 @@
+Script started on Mon 21 Nov 2016 07:28:26 PM PST
+]0;marti540@empress:~/cs311/HWPrograms/forHW6[marti540@empress forHW6]$ exit./a.outg++ sampleG.cpp dgraph.cpp hw3p3.o llist.o[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Krm record.HW6ls[Kscript record.HW6[1Pemacs dgraph.cppscript record.HW6ls[Krm record.HW6exit[Kg++ sampleG.cpp dgraph.cpp hw3p3.o llist.o[1P[1P[1P[1P[1P[1P[1P[1@h[1@w[1@6[1@C[1@l[1@i[1@e[1@n[1@t
+]0;marti540@empress:~/cs311/HWPrograms/forHW6[marti540@empress forHW6]$ ./a.out
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+Vertex name:A
+out degree: 2
+[B F ]
+Vertex name:B
+out degree: 2
+[C G ]
+Vertex name:C
+out degree: 1
+[H ]
+Vertex name:D
+out degree: 0
+[empty]
+Vertex name:E
+out degree: 0
+[empty]
+Vertex name:F
+out degree: 2
+[I E ]
+Vertex name:G
+out degree: 0
+[empty]
+Vertex name:H
+out degree: 2
+[G I ]
+Vertex name:I
+out degree: 3
+[A G E ]
+=========================================
+Do you want to find the out degree
+0: YES
+1: NO
+0
+Enter vertex name: A
+
+ the out degree of A is :2
+=========================================
+Do you want to  find another out degree?
+0: YES
+1: NO
+0
+Enter vertex name: B
+
+ the out degree of B is :2
+=========================================
+Do you want to  find another out degree?
+0: YES
+1: NO
+0
+Enter vertex name: C
+
+ the out degree of C is :1
+=========================================
+Do you want to  find another out degree?
+0: YES
+1: NO
+0
+Enter vertex name: D
+
+ the out degree of D is :0
+=========================================
+Do you want to  find another out degree?
+0: YES
+1: NO
+0
+Enter vertex name: E
+
+ the out degree of E is :0
+=========================================
+Do you want to  find another out degree?
+0: YES
+1: NO
+0
+Enter vertex name: F
+
+ the out degree of F is :2
+=========================================
+Do you want to  find another out degree?
+0: YES
+1: NO
+0
+Enter vertex name: G
+
+ the out degree of G is :0
+=========================================
+Do you want to  find another out degree?
+0: YES
+1: NO
+0
+Enter vertex name: H
+
+ the out degree of H is :2
+=========================================
+Do you want to  find another out degree?
+0: YES
+1: NO
+0
+Enter vertex name: I
+
+ the out degree of I is :3
+=========================================
+Do you want to  find another out degree?
+0: YES
+1: NO
+0
+Enter vertex name: J
+
+bad vertex
+=========================================
+Do you want to  find another out degree?
+0: YES
+1: NO
+1
+=========================================
+Do you want to  find adjancency?
+0: YES
+1: NO
+0
+Enter vertex name: A
+
+....in the llist constructor
+[B F ]
+....in the llist destructor
+=========================================
+Do you want to  find adjancency?
+0: YES
+1: NO
+0
+Enter vertex name: B
+
+....in the llist constructor
+[C G ]
+....in the llist destructor
+=========================================
+Do you want to  find adjancency?
+0: YES
+1: NO
+0
+Enter vertex name: C
+
+....in the llist constructor
+[H ]
+....in the llist destructor
+=========================================
+Do you want to  find adjancency?
+0: YES
+1: NO
+0
+Enter vertex name: D
+
+....in the llist constructor
+[empty]
+....in the llist destructor
+=========================================
+Do you want to  find adjancency?
+0: YES
+1: NO
+0
+Enter vertex name: E
+
+....in the llist constructor
+[empty]
+....in the llist destructor
+=========================================
+Do you want to  find adjancency?
+0: YES
+1: NO
+0
+Enter vertex name: F
+
+....in the llist constructor
+[I E ]
+....in the llist destructor
+=========================================
+Do you want to  find adjancency?
+0: YES
+1: NO
+0
+Enter vertex name: G
+
+....in the llist constructor
+[empty]
+....in the llist destructor
+=========================================
+Do you want to  find adjancency?
+0: YES
+1: NO
+0
+Enter vertex name: H
+
+....in the llist constructor
+[G I ]
+....in the llist destructor
+=========================================
+Do you want to  find adjancency?
+0: YES
+1: NO
+0
+Enter vertex name: I
+
+....in the llist constructor
+[A G E ]
+....in the llist destructor
+=========================================
+Do you want to  find adjancency?
+0: YES
+1: NO
+0
+Enter vertex name: J
+
+bad vertex
+=========================================
+Do you want to  find adjancency?
+0: YES
+1: NO
+1
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+]0;marti540@empress:~/cs311/HWPrograms/forHW6[marti540@empress forHW6]$ EXIT
+bash: EXIT: command not found
+]0;marti540@empress:~/cs311/HWPrograms/forHW6[marti540@empress forHW6]$ exit
+exit
+
+Script done on Mon 21 Nov 2016 07:30:13 PM PST

@@ -1,0 +1,40 @@
+Script started on Mon 24 Oct 2016 06:08:06 PM PDT
+]0;marti540@empress:~/cs311/HWPrograms/forHW3[marti540@empress forHW3]$ g++ HW3P3client.cpp slist.cpp llist.cpp
+]0;marti540@empress:~/cs311/HWPrograms/forHW3[marti540@empress forHW3]$ ./a.out
+Contstructor
+Contstructor
+Contstructor
+Contstructor
+1
+2
+Contstructor
+in copy test
+[ 1 2 3 4 5 6 ]
+finished
+destructor
+-- After copytest --- 
+3
+[ 1 2 3 4 5 ]
+-- Testing operator overloading ---
+4
+5
+[ 1 2 3 4 5 ]
+6
+7
+[ 7 8 9 10 ]
+8
+9
+[ 1 2 3 4 5 ]
+10
+11
+[ 1 2 3 4 ]
+12
+[ 1 2 3 4 ]
+13
+[ 1 2 3 4 5 ]
+destructor
+destructor
+]0;marti540@empress:~/cs311/HWPrograms/forHW3[marti540@empress forHW3]$ exit
+exit
+
+Script done on Mon 24 Oct 2016 06:08:34 PM PDT

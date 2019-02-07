@@ -1,0 +1,32 @@
+Script started on Fri 16 Sep 2016 01:23:11 PM PDT
+]0;marti540@empress:~/cs311/HWPrograms/forHW1[marti540@empress forHW1]$ g++ client2.cpp queue.cpp
+]0;marti540@empress:~/cs311/HWPrograms/forHW1[marti540@empress forHW1]$ ./a.out
+a
+b
+c
+aa
+ab
+ac
+ba
+bb
+bc
+ca
+cb
+cc
+aaa
+aab
+aac
+aba
+abb
+abc
+aca
+acb
+acc
+baa
+bab
+bac
+cannot add
+]0;marti540@empress:~/cs311/HWPrograms/forHW1[marti540@empress forHW1]$ exit
+exit
+
+Script done on Fri 16 Sep 2016 01:23:51 PM PDT

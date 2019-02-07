@@ -1,0 +1,28 @@
+Script started on Mon 17 Oct 2016 12:48:15 PM PDT
+]0;marti540@empress:~/cs311/HWPrograms/forHW3[marti540@empress forHW3]$ exit./a.outg++ HW3P2client.cpp slist.cpp llist.cpp
+]0;marti540@empress:~/cs311/HWPrograms/forHW3[marti540@empress forHW3]$ g++ HW3P2client.cpp slist.cpp llist.cpp[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[K./a.out
+Contstructor
+Contstructor
+1
+2
+3
+[ 4 6 7 8 ]
+4
+ found in position: 2
+5
+6 was replaced with 0
+6
+ found in position: 4
+7
+8 was replaced with 2
+8
+[ 4 0 7 2 ]
+9
+ Not found
+10
+ERROR: Bad position was given
+destructor
+]0;marti540@empress:~/cs311/HWPrograms/forHW3[marti540@empress forHW3]$ exit
+exit
+
+Script done on Mon 17 Oct 2016 12:48:24 PM PDT

@@ -1,0 +1,44 @@
+Script started on Fri 16 Sep 2016 01:16:00 PM PDT
+]0;marti540@empress:~/cs311/HWPrograms/forHW1[marti540@empress forHW1]$ exit./a.out[K[K[K[K[K[K[Kg++ client1.cpp stack.cpp
+]0;marti540@empress:~/cs311/HWPrograms/forHW1[marti540@empress forHW1]$ g++ client1.cpp stack.cppexit[K./a.out
+type a postfix expression: 34+
+The answer is: 7
+]0;marti540@empress:~/cs311/HWPrograms/forHW1[marti540@empress forHW1]$ ./a.out
+type a postfix expression: 345+*
+The answer is: 27
+]0;marti540@empress:~/cs311/HWPrograms/forHW1[marti540@empress forHW1]$ ./a.out
+type a postfix expression: 722+-
+The answer is: 3
+]0;marti540@empress:~/cs311/HWPrograms/forHW1[marti540@empress forHW1]$ ./a.out
+type a postfix expression: 34+56++
+The answer is: 18
+]0;marti540@empress:~/cs311/HWPrograms/forHW1[marti540@empress forHW1]$ ./a.out
+type a postfix expression: 12+34*45_ +-+
+The answer is: 6
+]0;marti540@empress:~/cs311/HWPrograms/forHW1[marti540@empress forHW1]$ ./a.out
+type a postfix expression: 1234567891234
+overflow
+overflow
+overflow
+incomplete expression
+]0;marti540@empress:~/cs311/HWPrograms/forHW1[marti540@empress forHW1]$ ./a.out
+type a postfix expression: +
+too few operands
+terminate called after throwing an instance of 'stack::Underflow'
+Aborted
+]0;marti540@empress:~/cs311/HWPrograms/forHW1[marti540@empress forHW1]$ ./a.out
+type a postfix expression: 3+
+too few operands
+terminate called after throwing an instance of 'stack::Underflow'
+Aborted
+]0;marti540@empress:~/cs311/HWPrograms/forHW1[marti540@empress forHW1]$ ./a.out
+type a postfix expression: 3#
+invalid item
+The answer is: 3
+]0;marti540@empress:~/cs311/HWPrograms/forHW1[marti540@empress forHW1]$ ./a.out
+type a postfix expression: 2345+
+incomplete expression
+]0;marti540@empress:~/cs311/HWPrograms/forHW1[marti540@empress forHW1]$ exit
+exit
+
+Script done on Fri 16 Sep 2016 01:18:39 PM PDT

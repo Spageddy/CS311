@@ -1,0 +1,181 @@
+Script started on Sat 03 Dec 2016 07:19:53 PM PST
+]0;marti540@empress:~/cs311/HWPrograms/forHW7[marti540@empress forHW7]$ emacs dgraph.cpp[1Pgraph.cppls[Kcd HWPrograms/forHW7cs311[K./shortest.out emacs table.txt[1Pmore @@read-mels[KLS./shortest.out K[K./shortest.out emacs table.txt[6Ptable.txtls[K./shortest.out ls[Ktable.txtemacs table.txt./shortest.out K[K./shortest.out LS[Klsmore @@read-meemacs table.txt./shortest.out [7Pcd cs311HWPrograms/forHW7ls[Kemacs graph.cppdgraph.cpp[Kemacs dgraph.cpp[1Pgraph.cppls[Kcd HWPrograms/forHW7cs311[K./shortest.out emacs table.txt[1Pmore @@read-mels[KLS./shortest.out K[K./shortest.out emacs table.txt[6Ptable.txtls[K./shortest.out ls[Kmore table.txtls[KLSA./shortest.out more table.tx[C[C[1P@@read-mels[Kcd HW7P1/ls[Kmore aals[Kcd cs311/HWPrograms/forHW7exit[K[2Plscd DemoPrograms/ls[Kcd cs311[K cd cs311more @@read-me[K[K[K[K[K[K[K[K[K[K[K[K[K[Kg++ hw7Client.cpp dgrp[Kaph.cpp hw3p3.o llist.o
+]0;marti540@empress:~/cs311/HWPrograms/forHW7[marti540@empress forHW7]$ ./aout[K[K[K.out
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+A 2 0[B F ]
+B 2 0[C G ]
+C 1 0[H ]
+D 0 0[empty]
+E 0 0[empty]
+F 2 0[I E ]
+G 0 0[empty]
+H 2 0[G I ]
+I 3 0[A G E ]
+*************************************
+
+visited : A
+....in the llist constructor
+
+
+stack is: 
+B
+F
+vertex : B
+
+visited : B
+....in the llist constructor
+....in the llist destructor
+
+
+stack is: 
+C
+G
+F
+-------------------
+vertex : C
+
+visited : C
+....in the llist constructor
+....in the llist destructor
+
+stack is: 
+H
+G
+F
+-------------------
+vertex : H
+
+visited : H
+....in the llist constructor
+....in the llist destructor
+
+
+stack is: 
+G
+I
+G
+F
+-------------------
+vertex : G
+
+visited : G
+....in the llist constructor
+....in the llist destructor
+stack is: 
+I
+G
+F
+-------------------
+vertex : I
+
+visited : I
+....in the llist constructor
+....in the llist destructor
+
+
+
+stack is: 
+A
+G
+E
+G
+F
+-------------------
+vertex : A
+stack is: 
+G
+E
+G
+F
+-------------------
+vertex : G
+stack is: 
+E
+G
+F
+-------------------
+vertex : E
+
+visited : E
+....in the llist constructor
+....in the llist destructor
+stack is: 
+G
+F
+-------------------
+vertex : G
+stack is: 
+F
+-------------------
+vertex : F
+
+visited : F
+....in the llist constructor
+....in the llist destructor
+
+
+stack is: 
+I
+E
+-------------------
+vertex : I
+stack is: 
+E
+-------------------
+vertex : E
+stack is: 
+-------------------
+*******************************************
+A 2 1[B F ]
+B 2 2[C G ]
+C 1 3[H ]
+D 0 0[empty]
+E 0 7[empty]
+F 2 8[I E ]
+G 0 5[empty]
+H 2 4[G I ]
+I 3 6[A G E ]
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+]0;marti540@empress:~/cs311/HWPrograms/forHW7[marti540@empress forHW7]$ exit
+exit
+
+Script done on Sat 03 Dec 2016 07:20:58 PM PST
